@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / Primary Colors (Indigo & Deep Blue) -->
+    <color name="primary">#1E40AF</color>
+    <color name="primary_variant">#1D4ED8</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="primary_container">#DBEAFE</color>
+    <color name="on_primary_container">#1E3A8A</color>
+
+    <!-- Secondary / Accent Colors (Teal) -->
+    <color name="secondary">#0D9488</color>
+    <color name="secondary_variant">#0F766E</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="secondary_container">#CCFBF1</color>
+    <color name="on_secondary_container">#115E59</color>
+
+    <!-- Background and Surface Colors -->
+    <color name="background_light">#F8FAFC</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_tertiary">#94A3B8</color>
+
+    <!-- Card Stroke / Divider -->
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="divider">#E2E8F0</color>
+
+    <!-- Semantic / Status Colors -->
+    <color name="success">#16A34A</color>
+    <color name="success_container">#DCFCE7</color>
+    <color name="error">#DC2626</color>
+    <color name="error_container">#FEE2E2</color>
+
+    <!-- Avatar Palette for dynamic initials -->
+    <color name="avatar_bg_1">#3B82F6</color>
+    <color name="avatar_bg_2">#8B5CF6</color>
+    <color name="avatar_bg_3">#EC4899</color>
+    <color name="avatar_bg_4">#10B981</color>
+    <color name="avatar_bg_5">#F59E0B</color>
+    <color name="avatar_bg_6">#06B6D4</color>
+</resources>

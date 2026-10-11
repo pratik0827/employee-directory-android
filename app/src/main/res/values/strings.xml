@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Employee Directory</string>
+    <string name="title_employee_detail">Employee Details</string>
+    
+    <!-- Labels -->
+    <string name="label_name">Full Name</string>
+    <string name="label_age">Age</string>
+    <string name="label_salary">Salary</string>
+    <string name="label_years">%1$d years old</string>
+    <string name="label_salary_formatted">₹%1$,d / month</string>
+    <string name="label_annual_salary">Annual Package</string>
+    <string name="label_annual_salary_formatted">₹%1$,d / year</string>
+    <string name="label_status">Employment Status</string>
+    <string name="status_active">Full-time Active</string>
+    
+    <!-- State strings -->
+    <string name="loading_employees">Loading employees…</string>
+    <string name="no_employees_found">No employee records available.</string>
+    <string name="retry">Retry</string>
+    <string name="error_network">Unable to connect to server. Please check your internet connection.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_no_employee_data">Employee details could not be loaded.</string>
+</resources>

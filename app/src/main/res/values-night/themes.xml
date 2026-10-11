@@ -1,0 +1,26 @@
+<resources>
+    <style name="Theme.EmployeeDetails" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color in dark mode -->
+        <item name="colorPrimary">#93C5FD</item>
+        <item name="colorOnPrimary">#1E3A8A</item>
+        <item name="colorPrimaryContainer">#1E40AF</item>
+        <item name="colorOnPrimaryContainer">#DBEAFE</item>
+
+        <!-- Secondary brand color in dark mode -->
+        <item name="colorSecondary">#5EEAD4</item>
+        <item name="colorOnSecondary">#115E59</item>
+        <item name="colorSecondaryContainer">#0F766E</item>
+        <item name="colorOnSecondaryContainer">#CCFBF1</item>
+
+        <!-- Background & Surface in dark mode -->
+        <item name="android:colorBackground">#0F172A</item>
+        <item name="colorSurface">#1E293B</item>
+        <item name="colorSurfaceVariant">#334155</item>
+
+        <!-- Status bar and navigation bar styling -->
+        <item name="android:statusBarColor">#1E293B</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#1E293B</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
